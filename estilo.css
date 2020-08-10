@@ -47,14 +47,8 @@ h2 {
     margin-right: 15%;
     margin-bottom: 25%;
 }
-.sessao {
+body {
     background-color: lightyellow;
-}
-.coluna {
-    float: left;
-    padding: 0 5%;
-    position: relative;
-    width: 40%;
 }
 div#maincontent {
     position:relative;
@@ -75,11 +69,6 @@ section {
 .center {
     padding: 0 5%;
     position: relative;
-}
-.imagem {
-    width: 560;
-    height: 315;
-    margin-top: 25%;
 }
 #coluna-unica {
     float: center;
